@@ -52,5 +52,16 @@ header nav a:hover{
 
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
 
 }
+
+.filme-principal .descricao {
+    margin-bottom: 40px;
+}
+
+.titulo{
+    font-size: 40px;
+}
+
