@@ -11,3 +11,6 @@ Todo o clone foi feito juntamente com as aulas ministradas pelo professor no boo
 
 Ao final do curso, o professor desafiou a criação do clone com uma nova roupagem. Decidi então incrementar o natal na Netflix, ficando NatalFlix, como segue abaixo: (hohoho!!)
 
+<p align="center">
+    <img width="460" heigth="300" src="/img/NETFLIX CLONE.gif">
+</p>
